@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Rounded container for crisp contrast on light & dark tabs -->
+  <rect width="64" height="64" rx="14" fill="#0D2116"/>
+  <!-- Pipe outline -->
+  <rect x="8" y="30" width="48" height="6" rx="2" fill="#2E4738" stroke="#ECFDF5" stroke-width="1.5"/>
+  <!-- Two green leaves -->
+  <path d="M32 30C32 18 20 12 14 15C12 23 20 30 32 30Z" fill="#22C55E"/>
+  <path d="M32 30C32 18 44 12 50 15C52 23 44 30 32 30Z" fill="#16A34A"/>
+  <!-- Water drop -->
+  <path d="M32 36C29 42 27 45 27 48C27 50.76 29.24 53 32 53C34.76 53 37 50.76 37 48C37 45 35 42 32 36Z" fill="#38BDF8"/>
+</svg>
