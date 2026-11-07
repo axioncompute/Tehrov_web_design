@@ -1,0 +1,98 @@
+export const CITIES_DATA = [
+  {
+    city: 'Bengaluru, Karnataka',
+    waterProfile: '180–650 ppm TDS (Cauvery / Borewell mix)',
+    climateNote: '32–34°C May peak; mild monsoon humidity',
+    popularSetup: 'Kratky-to-Active DWC Rescue & 2×2 ft 1BHK Corner Setup',
+  },
+  {
+    city: 'Mumbai & Navi Mumbai, MH',
+    waterProfile: '60–150 ppm TDS (BMC / NMMC soft municipal water)',
+    climateNote: '31–34°C humid coastal climate year-round',
+    popularSetup: 'Window Grill Mini-Farm & High-Humidity Airflow Setup',
+  },
+  {
+    city: 'Delhi NCR (Gurugram & Noida)',
+    waterProfile: '250–850 ppm TDS (DJB / hard groundwater)',
+    climateNote: '38–42°C summer peak; cool winter leafy season',
+    popularSetup: 'RO-Blended 25-Plant Indoor Shelf & Thermal Root Rescue',
+  },
+  {
+    city: 'Pune, Maharashtra',
+    waterProfile: '110–340 ppm TDS (PMC / society tanker mix)',
+    climateNote: '34–37°C dry summer; pleasant monsoon window growth',
+    popularSetup: 'Under-₹1,200 Kitchen Counter Herb Bar & Balcony Tower',
+  },
+  {
+    city: 'Hyderabad, Telangana',
+    waterProfile: '220–680 ppm TDS (Manjeera / borewell)',
+    climateNote: '36–40°C summer heat; active aeration essential',
+    popularSetup: 'Hard-Water TDS Calibration & Bedroom Corner Farm',
+  },
+  {
+    city: 'Chennai, Tamil Nadu',
+    waterProfile: '300–900 ppm TDS (Metro / coastal borewell)',
+    climateNote: '34–39°C warm humid months; high water uptake',
+    popularSetup: 'RO Nutrient Reset & Warm-Water Root Rot Prevention',
+  },
+  {
+    city: 'Kolkata, West Bengal',
+    waterProfile: '150–450 ppm TDS (KMC / tube well)',
+    climateNote: '34–36°C humid summer & low-light monsoon weeks',
+    popularSetup: 'Full-Spectrum LED Single-Shelf Setup & Algae Blackout',
+  },
+  {
+    city: 'Ahmedabad, Gujarat',
+    waterProfile: '350–850 ppm TDS (AMC / borewell)',
+    climateNote: '39–43°C dry summer afternoons',
+    popularSetup: 'Indoor Cool-Corner Hydroponic Tower & Summer EC Tuning',
+  },
+  {
+    city: 'Patna & Hajipur, Bihar',
+    waterProfile: '240–540 ppm TDS (Gangetic plains groundwater)',
+    climateNote: '36–40°C summer; lush winter leafy harvest window',
+    popularSetup: 'Under-₹2,000 Active DWC Starter & 2×2 ft Corner Garden',
+  },
+  {
+    city: 'Jaipur, Rajasthan',
+    waterProfile: '380–820 ppm TDS (Bisalpur / tube well)',
+    climateNote: '39–42°C arid heat; high evaporation rate',
+    popularSetup: 'Indoor Room Corner Farm & Low-EC Summer Dosing',
+  },
+  {
+    city: 'Chandigarh & Mohali',
+    waterProfile: '180–340 ppm TDS (Municipal supply)',
+    climateNote: '36–39°C summer; cold winter indoor LED season',
+    popularSetup: 'Year-Round Kitchen Herb Counter & 25-Plant Shelf',
+  },
+  {
+    city: 'Kochi, Kerala',
+    waterProfile: '60–190 ppm TDS (KWA / well water)',
+    climateNote: '30–33°C tropical monsoon humidity',
+    popularSetup: 'Root Collar Mold Prevention & Window Herb Trough',
+  },
+  {
+    city: 'Indore & Bhopal, MP',
+    waterProfile: '190–560 ppm TDS (Narmada / lake / borewell)',
+    climateNote: '37–40°C summer peak',
+    popularSetup: 'Under-₹2,000 DIY System Breakdown & Active Aeration',
+  },
+  {
+    city: 'Lucknow, Uttar Pradesh',
+    waterProfile: '280–620 ppm TDS (Gomti / groundwater)',
+    climateNote: '38–41°C summer; strong winter greens season',
+    popularSetup: 'Indoor Vertical UPVC Tower & Tap Water TDS Reset',
+  },
+  {
+    city: 'Coimbatore, Tamil Nadu',
+    waterProfile: '120–480 ppm TDS (Siruvani / borewell)',
+    climateNote: '32–35°C moderate climate',
+    popularSetup: 'Window Sill Mini-Farm & Kitchen Counter Herb Setup',
+  },
+  {
+    city: 'Surat & Vadodara, GJ',
+    waterProfile: '260–720 ppm TDS (Tapi / municipal / borewell)',
+    climateNote: '36–40°C warm months',
+    popularSetup: 'Active DWC Retrofit & 1BHK Space-Optimized Shelf',
+  },
+];
