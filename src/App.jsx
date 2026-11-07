@@ -29,7 +29,6 @@ export default function App() {
         <div className="min-h-screen flex flex-col">
           <Navbar />
           <main className="flex-1">
-            <Route path="/:slug" element={<BlogPostPage />} />
             <Routes>
               <Route path="/" element={<HomePage />} />
               <Route path="/services" element={<ServicesPage />} />
@@ -38,6 +37,7 @@ export default function App() {
               <Route path="/about" element={<AboutPage />} />
               <Route path="/contact" element={<ContactPage />} />
               <Route path="/legal/:policySlug" element={<LegalPage />} />
+              <Route path="/:slug" element={<BlogPostPage />} />
               <Route path="*" element={<NotFoundPage />} />
             </Routes>
           </main>
